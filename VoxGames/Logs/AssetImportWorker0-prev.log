@@ -11,19 +11,19 @@ C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
+C:/Users/g3.hn/Documents/Github Files/Vox_Games/VoxGames
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59343
-Successfully changed project path to: C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
-C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
+58748
+Successfully changed project path to: C:/Users/g3.hn/Documents/Github Files/Vox_Games/VoxGames
+C:/Users/g3.hn/Documents/Github Files/Vox_Games/VoxGames
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 86.81 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 84.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames/Assets
+[Subsystems] Discovering subsystems at path C:/Users/g3.hn/Documents/Github Files/Vox_Games/VoxGames/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,571 +35,106 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56112
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56308
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001795 seconds.
+Registered in 0.001948 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 87.12 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 85.80 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.193 seconds
+- Completed reload, in  1.222 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002644 seconds.
+Registered in 0.002608 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\g3.hn\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\g3.hn\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 89.75 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 91.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.028 seconds
+- Completed reload, in  1.023 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.3 MB.
+System memory in use before: 128.1 MB.
 System memory in use after: 128.3 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3830.
-Total: 2.146700 ms (FindLiveObjects: 0.236900 ms CreateObjectMapping: 0.158800 ms MarkObjects: 1.654800 ms  DeleteObjects: 0.095600 ms)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3835.
+Total: 2.292200 ms (FindLiveObjects: 0.273800 ms CreateObjectMapping: 0.180400 ms MarkObjects: 1.783000 ms  DeleteObjects: 0.053800 ms)
 
 ========================================================================
 Received Import Request.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055f026f566b1588e6e502726330f460') in 0.045849 seconds 
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles/Bottom_Left_Dark.asset
+  artifactKey: Guid(14b055a84616f354198e71c13bf39d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles/Bottom_Left_Dark.asset using Guid(14b055a84616f354198e71c13bf39d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b786dc0f9a726b2ea3da2a22a4ae57') in 0.076830 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 146.171814 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(a7ec0c5d305967d4aa1d4b0463b1d39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(a7ec0c5d305967d4aa1d4b0463b1d39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc76bd79c5c24d103f637b9d8cfec4f') in 0.045679 seconds 
+  Time since last request: 0.000248 seconds.
+  path: Assets/AlienTileSet/TilePalette
+  artifactKey: Guid(a214c5210b13c6044be5ad3143bc42d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette using Guid(a214c5210b13c6044be5ad3143bc42d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b408eb9cf60db6bdcb59863f288cefef') in 0.001651 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 18.302543 seconds.
+  Time since last request: 2.565869 seconds.
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles/Bottom_Middle_Dark.asset
+  artifactKey: Guid(161b2a93f7c7c924aa4ce865d7f22507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles/Bottom_Middle_Dark.asset using Guid(161b2a93f7c7c924aa4ce865d7f22507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ae86a7b60bb96ea83d649a0056e6b6') in 0.007755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.804837 seconds.
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles/Bottom_Right_Dark.asset
+  artifactKey: Guid(3022c19dfd4c7dc4d9db782721faa0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles/Bottom_Right_Dark.asset using Guid(3022c19dfd4c7dc4d9db782721faa0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b6cd588d54e3fc59dd5a4a7dc07e186') in 0.006716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.707156 seconds.
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles/Left_Corner_Up_Dark.asset
+  artifactKey: Guid(06c02fa8841b9284fb4d5afda34cf134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles/Left_Corner_Up_Dark.asset using Guid(06c02fa8841b9284fb4d5afda34cf134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32277851e95c626ecefa0f73604ea683') in 0.008041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.743767 seconds.
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles/Middle_Dark.asset
+  artifactKey: Guid(b4295983bce51b844aa292d392af0765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles/Middle_Dark.asset using Guid(b4295983bce51b844aa292d392af0765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6843616f4530349e85ebbe3e0598c27f') in 0.007693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.314793 seconds.
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles/Right_Corner_Up_Dark.asset
+  artifactKey: Guid(1aeddcdacbf6b8d42aa0bdfdbc37ece6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles/Right_Corner_Up_Dark.asset using Guid(1aeddcdacbf6b8d42aa0bdfdbc37ece6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb691d84b15095d3b609a26ca03018b') in 0.007289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.776738 seconds.
+  path: Assets/AlienTileSet/Sprites
+  artifactKey: Guid(35bc6a809b7a11a4aacb03ff45ab8fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/Sprites using Guid(35bc6a809b7a11a4aacb03ff45ab8fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36966cf27830ee7874aa0c0729c083e') in 0.001931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.975375 seconds.
+  path: Assets/New Piskel (1).png
+  artifactKey: Guid(e482c8be70a78d0448d44b1f2ecc23f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Piskel (1).png using Guid(e482c8be70a78d0448d44b1f2ecc23f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bfbb57fba6f35e8c0d9820adbeda5dc') in 0.152386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.377509 seconds.
+  path: Assets/New Piskel.gif
+  artifactKey: Guid(c63f15510c73ab04b9394649efcfc31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Piskel.gif using Guid(c63f15510c73ab04b9394649efcfc31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba12f2820b62cf4621d66c2d982e1ebd') in 0.012146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 327.427863 seconds.
   path: Assets/Scripts/Player.cs
   artifactKey: Guid(da642c4a5008d694fa1bd67e30081106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Player.cs using Guid(da642c4a5008d694fa1bd67e30081106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46930e2ae0c67e8310b8452c21bb8596') in 0.653327 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.295739 seconds.
-  path: Assets/Scripts/Enemy.cs
-  artifactKey: Guid(78cc8a3675d72224e850bfd227d3cd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemy.cs using Guid(78cc8a3675d72224e850bfd227d3cd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee971359e69be0e334f3ce850fed0d17') in 0.002913 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002616 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.990 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.3 MB.
-System memory in use after: 128.4 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3834.
-Total: 2.621000 ms (FindLiveObjects: 0.277100 ms CreateObjectMapping: 0.195700 ms MarkObjects: 2.030800 ms  DeleteObjects: 0.116100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002630 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.256 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.3 MB.
-System memory in use after: 128.4 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3838.
-Total: 2.980900 ms (FindLiveObjects: 0.381900 ms CreateObjectMapping: 0.296700 ms MarkObjects: 2.194100 ms  DeleteObjects: 0.106800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002899 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.033 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.4 MB.
-System memory in use after: 128.5 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3842.
-Total: 2.462200 ms (FindLiveObjects: 0.259900 ms CreateObjectMapping: 0.162800 ms MarkObjects: 1.942100 ms  DeleteObjects: 0.096400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002749 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.058 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.4 MB.
-System memory in use after: 128.5 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3846.
-Total: 2.769200 ms (FindLiveObjects: 0.347100 ms CreateObjectMapping: 0.191100 ms MarkObjects: 2.130600 ms  DeleteObjects: 0.099100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002561 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.885 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.4 MB.
-System memory in use after: 128.5 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3850.
-Total: 2.538400 ms (FindLiveObjects: 0.292900 ms CreateObjectMapping: 0.191800 ms MarkObjects: 1.965800 ms  DeleteObjects: 0.087000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002497 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.901 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.4 MB.
-System memory in use after: 128.5 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3854.
-Total: 2.489200 ms (FindLiveObjects: 0.261000 ms CreateObjectMapping: 0.171000 ms MarkObjects: 1.964600 ms  DeleteObjects: 0.091400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002535 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.913 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.4 MB.
-System memory in use after: 128.5 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3858.
-Total: 2.335900 ms (FindLiveObjects: 0.280800 ms CreateObjectMapping: 0.194700 ms MarkObjects: 1.773200 ms  DeleteObjects: 0.086300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003118 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.912 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.5 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3862.
-Total: 2.154800 ms (FindLiveObjects: 0.238900 ms CreateObjectMapping: 0.155100 ms MarkObjects: 1.676200 ms  DeleteObjects: 0.083700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002545 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.886 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3866.
-Total: 2.283500 ms (FindLiveObjects: 0.234200 ms CreateObjectMapping: 0.147400 ms MarkObjects: 1.812900 ms  DeleteObjects: 0.088200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002606 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.858 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3870.
-Total: 2.283800 ms (FindLiveObjects: 0.239100 ms CreateObjectMapping: 0.149400 ms MarkObjects: 1.808900 ms  DeleteObjects: 0.085500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003247 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.857 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3874.
-Total: 2.169700 ms (FindLiveObjects: 0.236900 ms CreateObjectMapping: 0.169400 ms MarkObjects: 1.679600 ms  DeleteObjects: 0.083000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002622 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.902 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3878.
-Total: 2.206900 ms (FindLiveObjects: 0.242100 ms CreateObjectMapping: 0.149700 ms MarkObjects: 1.732000 ms  DeleteObjects: 0.082400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002639 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.887 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3882.
-Total: 2.562800 ms (FindLiveObjects: 0.247500 ms CreateObjectMapping: 0.161000 ms MarkObjects: 2.055000 ms  DeleteObjects: 0.098000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002533 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.850 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3886.
-Total: 2.337200 ms (FindLiveObjects: 0.274800 ms CreateObjectMapping: 0.182200 ms MarkObjects: 1.791200 ms  DeleteObjects: 0.088300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002530 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.862 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3890.
-Total: 2.254400 ms (FindLiveObjects: 0.250500 ms CreateObjectMapping: 0.159000 ms MarkObjects: 1.758300 ms  DeleteObjects: 0.085600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002542 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.859 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3894.
-Total: 2.220800 ms (FindLiveObjects: 0.264800 ms CreateObjectMapping: 0.154900 ms MarkObjects: 1.711300 ms  DeleteObjects: 0.089100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 418.843922 seconds.
-  path: Assets/AlienTileSet/Prefabs/Mountains
-  artifactKey: Guid(16d7e6e8ee7204a40806a7a5fdafc434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AlienTileSet/Prefabs/Mountains using Guid(16d7e6e8ee7204a40806a7a5fdafc434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84c8f1025b0a5059d12ee658c411992') in 0.006315 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 61.759047 seconds.
-  path: Assets/AlienTileSet/Prefabs/Only for Settings
-  artifactKey: Guid(95e481c43851e684b9741ad6caf8ba6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AlienTileSet/Prefabs/Only for Settings using Guid(95e481c43851e684b9741ad6caf8ba6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825783a47379fb6f1446e519dd0a682c') in 0.003057 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002593 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.904 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3898.
-Total: 2.250100 ms (FindLiveObjects: 0.269000 ms CreateObjectMapping: 0.170000 ms MarkObjects: 1.714000 ms  DeleteObjects: 0.096300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 113.039451 seconds.
-  path: Assets/AlienTileSet/Prefabs/Silhouette
-  artifactKey: Guid(c988e357cc863a74d8a3967cdea01b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AlienTileSet/Prefabs/Silhouette using Guid(c988e357cc863a74d8a3967cdea01b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9cda70f1ffc182293b8e6233a9f3fd3') in 0.007850 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 36.321872 seconds.
-  path: Assets/AlienTileSet/Prefabs/Trees
-  artifactKey: Guid(bd93aedb24a054a46bdbf6c3c24149cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AlienTileSet/Prefabs/Trees using Guid(bd93aedb24a054a46bdbf6c3c24149cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b0b726a2d099390a075109db97066b') in 0.005955 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002580 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.892 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3902.
-Total: 2.469100 ms (FindLiveObjects: 0.256300 ms CreateObjectMapping: 0.157800 ms MarkObjects: 1.904300 ms  DeleteObjects: 0.149300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002865 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.860 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3906.
-Total: 3.313800 ms (FindLiveObjects: 0.366400 ms CreateObjectMapping: 0.185700 ms MarkObjects: 2.643400 ms  DeleteObjects: 0.117200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002529 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.865 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.6 MB.
-System memory in use after: 128.7 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3910.
-Total: 2.186700 ms (FindLiveObjects: 0.249900 ms CreateObjectMapping: 0.157800 ms MarkObjects: 1.695700 ms  DeleteObjects: 0.082400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002539 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.836 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.6 MB.
-System memory in use after: 128.7 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3914.
-Total: 2.172400 ms (FindLiveObjects: 0.257900 ms CreateObjectMapping: 0.167100 ms MarkObjects: 1.659700 ms  DeleteObjects: 0.086900 ms)
-
+Start importing Assets/Scripts/Player.cs using Guid(da642c4a5008d694fa1bd67e30081106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5250a8c40f8b96ecfd865ba40699cc9e') in 0.035521 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
