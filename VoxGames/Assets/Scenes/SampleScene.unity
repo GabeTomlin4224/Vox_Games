@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 343400178}
   - component: {fileID: 343400177}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Tree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,8 +178,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1017771467
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: d58b7c1d239ea3e4fb6e2a0f25376e17, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -744,7 +744,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4908429206415600, guid: 0b13cadae4642f843b2fc06e35feb11c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.96
+      value: 4.41
       objectReference: {fileID: 0}
     - target: {fileID: 4908429206415600, guid: 0b13cadae4642f843b2fc06e35feb11c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -927,10 +927,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1744770845}
   - component: {fileID: 1744770844}
-  - component: {fileID: 1744770843}
   - component: {fileID: 1744770842}
-  - component: {fileID: 1744770846}
-  - component: {fileID: 1744770847}
+  - component: {fileID: 1744770843}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -957,27 +955,24 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!50 &1744770843
-Rigidbody2D:
-  serializedVersion: 4
+--- !u!143 &1744770843
+CharacterController:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1744770841}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
   m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 1
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 1.6670738
+  m_Radius: 0.5233334
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &1744770844
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1044,48 +1039,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!70 &1744770846
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1744770841}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1.0466667, y: 1.6670738}
-  m_Direction: 0
---- !u!61 &1744770847
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1744770841}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.0466667, y: 1.6670738}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.0466667, y: 1.6670738}
-  m_EdgeRadius: 0
 --- !u!1001 &1750501696
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1222,6 +1175,10 @@ PrefabInstance:
     - target: {fileID: 1479225721683512, guid: 4ce3731f5e125b74c932ef6b944bfe83, type: 3}
       propertyPath: m_Name
       value: Falling Leaves
+      objectReference: {fileID: 0}
+    - target: {fileID: 1479225721683512, guid: 4ce3731f5e125b74c932ef6b944bfe83, type: 3}
+      propertyPath: m_Layer
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 4670977357719278, guid: 4ce3731f5e125b74c932ef6b944bfe83, type: 3}
       propertyPath: m_RootOrder
