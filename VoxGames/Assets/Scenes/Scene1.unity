@@ -904,7 +904,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1744770845}
-  moveSpeed: 1
+  moveSpeed: 7
 --- !u!70 &1622527968
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
