@@ -4,37 +4,47 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public Transform player;
-    public float moveSpeed = 5f;
-    private Rigidbody2D rb;
-    private Vector2 movement;
 
+    public float speed;
+    public bool chase = false;
+    public Transform startingPoint;
+    private GameObject player;
 
 
 
     // Start is called before the first frame update
     void Start()
     {
-        rb = this.GetComponent<Rigidbody2D>();
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 direction = player.position - transform.position;
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        rb.rotation = angle;
-        direction.Normalize();
-        movement = direction;
+        if (player ==null)
+        return;
+        if(chase==true)
+            Chase();
+        else
+        ReturnStartPoint();
+        Flip();
     }
 
-    private void FixedUpdate()
+    private void Chase()
     {
-        moveCharacter(movement);
+        transform.position = Vector2.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
     }
 
-    void moveCharacter(Vector2 direction)
+    private void ReturnStartPoint()
     {
-        rb.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));
+        transform.position = Vector2.MoveTowards(transform.position, startingPoint.transform.position, speed * Time.deltaTime);
+    }
+
+    private void Flip()
+    {
+        if(transform.position.x>player.transform.position.x)
+            transform.rotation = Quaternion.Euler(0, 0, 0);
+        else
+            transform.rotation = Quaternion.Euler(0, 180, 0);
     }
 }
