@@ -15,7 +15,7 @@ TagManager:
   - 
   - 
   - 
-  - Moon
+  - Trap
   - Background
   - Foreground
   - Player
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: BackGround
     uniqueID: 1017771467
+    locked: 0
+  - name: Traps
+    uniqueID: 2664016813
     locked: 0
   - name: Portal
     uniqueID: 2753456741
