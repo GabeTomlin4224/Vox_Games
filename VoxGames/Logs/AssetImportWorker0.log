@@ -11,19 +11,19 @@ C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
+C:/Users/g3.hn/Documents/Github Files/Vox_Games/VoxGames
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62407
-Successfully changed project path to: C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
-C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
+53727
+Successfully changed project path to: C:/Users/g3.hn/Documents/Github Files/Vox_Games/VoxGames
+C:/Users/g3.hn/Documents/Github Files/Vox_Games/VoxGames
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 86.14 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 88.81 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames/Assets
+[Subsystems] Discovering subsystems at path C:/Users/g3.hn/Documents/Github Files/Vox_Games/VoxGames/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,156 +35,109 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001936 seconds.
+Registered in 0.001856 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 87.70 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 90.04 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.208 seconds
+- Completed reload, in  1.236 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003175 seconds.
+Registered in 0.003065 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\g3.hn\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\g3.hn\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 87.29 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 95.82 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.037 seconds
+- Completed reload, in  1.067 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.6 MB.
+System memory in use before: 133.5 MB.
 System memory in use after: 133.7 MB.
 
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3986.
-Total: 2.301300 ms (FindLiveObjects: 0.254300 ms CreateObjectMapping: 0.170700 ms MarkObjects: 1.766200 ms  DeleteObjects: 0.109300 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3990.
+Total: 2.185400 ms (FindLiveObjects: 0.244700 ms CreateObjectMapping: 0.161200 ms MarkObjects: 1.726300 ms  DeleteObjects: 0.052400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Free Pixel Space Platform Pack/Background
-  artifactKey: Guid(e12c2345565a9ba44b58fb655e1989cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Pixel Space Platform Pack/Background using Guid(e12c2345565a9ba44b58fb655e1989cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee334e7a100a2de214ad7672d382628f') in 0.005104 seconds 
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles/Middle_Right_Dark.asset
+  artifactKey: Guid(43a364ee56f4734449f03d39c2b97814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles/Middle_Right_Dark.asset using Guid(43a364ee56f4734449f03d39c2b97814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eba74d87be81f5331d1fc3089caf8af') in 0.108332 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Free Pixel Space Platform Pack/Plants
-  artifactKey: Guid(5b424c2ec79f32641b8579ba8aebd0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Pixel Space Platform Pack/Plants using Guid(5b424c2ec79f32641b8579ba8aebd0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57197310ef9976a036b2c091e739a587') in 0.001979 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.986245 seconds.
-  path: Assets/Free Pixel Space Platform Pack/Plants/GrassUp.png
-  artifactKey: Guid(c33597f3b548250438320bd772ebb30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Pixel Space Platform Pack/Plants/GrassUp.png using Guid(c33597f3b548250438320bd772ebb30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ff7a665abd0273b28a66c5f0e4cebe') in 0.205154 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.004316 seconds.
-  path: Assets/Free Pixel Space Platform Pack/Plants/GreenBush.png
-  artifactKey: Guid(da20a98f295c37f45a640ed110f4cc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Pixel Space Platform Pack/Plants/GreenBush.png using Guid(da20a98f295c37f45a640ed110f4cc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47b975a04438e53b0205707a46d1394') in 0.008082 seconds 
+  Time since last request: 0.000241 seconds.
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles/Middle_Left_Dark.asset
+  artifactKey: Guid(fcf9f8bb035a6544c86f9466559e0c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles/Middle_Left_Dark.asset using Guid(fcf9f8bb035a6544c86f9466559e0c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db01adf23a82af6fe117ce73b85c63af') in 0.011135 seconds 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2.76 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 3.04 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.1 MB.
-System memory in use after: 68.2 MB.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.2 MB.
+System memory in use after: 67.5 MB.
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3994.
-Total: 2.898500 ms (FindLiveObjects: 0.275300 ms CreateObjectMapping: 0.197400 ms MarkObjects: 2.335000 ms  DeleteObjects: 0.090100 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3994.
+Total: 3.418600 ms (FindLiveObjects: 0.278100 ms CreateObjectMapping: 0.185400 ms MarkObjects: 2.932600 ms  DeleteObjects: 0.021200 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 142.267895 seconds.
-  path: Assets/Free Pixel Space Platform Pack/Portal/PortalOff.png
-  artifactKey: Guid(ecb1aaf3f627cd44e80d674bfd9228f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Pixel Space Platform Pack/Portal/PortalOff.png using Guid(ecb1aaf3f627cd44e80d674bfd9228f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d019656a03e0ed16713f9e9de0c15a') in 0.009013 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.169415 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba89c6569b30b88871f07e874eb99cb2') in 0.004578 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003010 seconds.
+Registered in 0.002999 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\g3.hn\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\g3.hn\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.891 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3517 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.0 MB.
+System memory in use after: 137.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3998.
+Total: 2.375000 ms (FindLiveObjects: 0.250100 ms CreateObjectMapping: 0.164600 ms MarkObjects: 1.942200 ms  DeleteObjects: 0.017300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003124 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\g3.hn\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\g3.hn\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.901 seconds
+- Completed reload, in  0.887 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3525 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.7 MB.
-System memory in use after: 139.8 MB.
+Unloading 3517 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.0 MB.
+System memory in use after: 137.3 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4041.
-Total: 2.280000 ms (FindLiveObjects: 0.256600 ms CreateObjectMapping: 0.167700 ms MarkObjects: 1.768800 ms  DeleteObjects: 0.086200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003048 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.895 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3522 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.6 MB.
-System memory in use after: 139.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4045.
-Total: 2.308500 ms (FindLiveObjects: 0.272800 ms CreateObjectMapping: 0.177900 ms MarkObjects: 1.769700 ms  DeleteObjects: 0.087300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002930 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.884 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3522 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.7 MB.
-System memory in use after: 139.8 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4049.
-Total: 2.227300 ms (FindLiveObjects: 0.262000 ms CreateObjectMapping: 0.180500 ms MarkObjects: 1.697900 ms  DeleteObjects: 0.086100 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4002.
+Total: 2.185000 ms (FindLiveObjects: 0.252000 ms CreateObjectMapping: 0.171400 ms MarkObjects: 1.747300 ms  DeleteObjects: 0.013600 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
