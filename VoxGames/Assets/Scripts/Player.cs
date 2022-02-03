@@ -5,6 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float moveSpeed = 5f;
+    public bool isGrounded = false;
 
     
     
@@ -22,8 +23,6 @@ public class Player : MonoBehaviour
     }
 
     void Jump (){
-    if (Input.GetButtonDown("Jump")){
-        gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 5f), ForceMode2D.Impulse);
+    
     }
     }
-}
