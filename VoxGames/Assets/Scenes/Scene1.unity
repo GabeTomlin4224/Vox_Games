@@ -1881,6 +1881,7 @@ GameObject:
   - component: {fileID: 1744770847}
   - component: {fileID: 1744770846}
   - component: {fileID: 1744770843}
+  - component: {fileID: 1744770848}
   m_Layer: 13
   m_Name: Player
   m_TagString: Player
@@ -1922,9 +1923,9 @@ BoxCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.070444584, y: -0.09445703}
   m_SpriteTilingProperty:
-    border: {x: 1.1999999, y: 0, z: 1.35, w: 0.14999999}
+    border: {x: 1.875, y: 0, z: 2.109375, w: 0.234375}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 4.8, y: 4.8}
+    oldSize: {x: 7.5, y: 7.5}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2012,8 +2013,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.117408104, y: 0.22327526}
-  m_Size: {x: 2.4086058, y: 4.7803726}
+  m_Offset: {x: -0.117408104, y: 0.023780245}
+  m_Size: {x: 2.4086058, y: 4.3813825}
   m_Direction: 0
 --- !u!50 &1744770847
 Rigidbody2D:
@@ -2036,6 +2037,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 5
+--- !u!114 &1744770848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1744770841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6047ddf946c843b48877e3f279d1d58a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1750501696
 PrefabInstance:
   m_ObjectHideFlags: 0
