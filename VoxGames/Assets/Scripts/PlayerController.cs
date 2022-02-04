@@ -33,5 +33,9 @@ public class PlayerController : MonoBehaviour
          {
              rb2D.AddForce(new Vector2(moveHorizontal * moveSpeed, 0f), ForceMode2D.Impulse);
          }
+         if (moveVertical > 0.1f)
+         {
+             rb2D.AddForce(new Vector2(0f, 0f), ForceMode2D.Impulse);
+         }
     }
 }
