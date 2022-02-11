@@ -1173,7 +1173,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.778157, y: 1}
+    m_SensorSize: {x: 1.7783641, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -1921,7 +1921,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.11051279, y: -0.08061528}
+  m_Offset: {x: 0.95402694, y: 0.047631085}
   m_SpriteTilingProperty:
     border: {x: 1.875, y: 0, z: 2.109375, w: 0.234375}
     pivot: {x: 0.5, y: 0}
@@ -1932,7 +1932,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.6231728, y: 4.776073}
+  m_Size: {x: 0.49419308, y: 0.63555336}
   m_EdgeRadius: 0
 --- !u!212 &1744770844
 SpriteRenderer:
@@ -2036,7 +2036,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &1744770848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2046,11 +2046,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1744770841}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f9801a08e45a164fb171ade271dacaf, type: 3}
+  m_Script: {fileID: 11500000, guid: 3d5d66f574eb64043ac7002975930704, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 5
-  jumpSpeed: 3
+  runSpeed: 6
 --- !u!1001 &1750501696
 PrefabInstance:
   m_ObjectHideFlags: 0
