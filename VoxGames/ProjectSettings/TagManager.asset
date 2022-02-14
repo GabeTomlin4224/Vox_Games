@@ -19,7 +19,7 @@ TagManager:
   - Background2
   - Trap
   - Background
-  - Foreground
+  - Ground
   - Player
   - Enemy
   - Portal
