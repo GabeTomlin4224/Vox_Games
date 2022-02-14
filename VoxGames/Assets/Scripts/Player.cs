@@ -5,6 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField] float runSpeed = 5f;
+    [SerializeField] float jumpSpeed = 5f;
     Rigidbody2D myRigidBody;
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,15 @@ public class Player : MonoBehaviour
         float controlThrow = Input.GetAxis("Horizontal"); 
         Vector2 playerVelocity = new Vector2(controlThrow * runSpeed,myRigidBody.velocity.y);
         myRigidBody.velocity = playerVelocity;
+    }
+
+    private void Jump()
+    {
+        if(Input.GetButtonDown("Jump"))
+        {
+            Vector2 jumpVelocityToAdd = new Vector2(0f, jumpSpeed);
+            myRigidBody.velocity += jumpVelocityToAdd;
+        }
     }
 
     private void FlipSprite()
