@@ -11,5 +11,12 @@ public class PlayerDeath : MonoBehaviour
             Destroy(gameObject);
             LevelManager.instance.Respawn();
         }
+
+        if (collision.gameObject.CompareTag("Hazard"))
+        {
+            Destroy(gameObject);
+            LevelManager.instance.Respawn();
+        }
     }
+
 }
