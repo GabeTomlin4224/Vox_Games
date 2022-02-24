@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
     [SerializeField] float runSpeed = 5f;
     [SerializeField] float jumpSpeed = 5f;
     Rigidbody2D myRigidBody;
+    Collider2D myCollider2D;
     // Start is called before the first frame update
     void Start()
     {
