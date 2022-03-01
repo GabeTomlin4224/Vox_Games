@@ -1889,8 +1889,8 @@ GameObject:
   - component: {fileID: 1744770847}
   - component: {fileID: 1744770846}
   - component: {fileID: 1744770848}
-  - component: {fileID: 1744770849}
   - component: {fileID: 1744770850}
+  - component: {fileID: 1744770843}
   m_Layer: 13
   m_Name: Player
   m_TagString: Player
@@ -1917,6 +1917,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1744770843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1744770841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b546fab4da909e40ab23c5318735751, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathKick: {x: 25, y: 25}
 --- !u!212 &1744770844
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2034,18 +2047,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   runSpeed: 6
   jumpSpeed: 10
---- !u!114 &1744770849
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1744770841}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b546fab4da909e40ab23c5318735751, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1744770850
 MonoBehaviour:
   m_ObjectHideFlags: 0
