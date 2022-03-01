@@ -1181,7 +1181,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7789474, y: 1}
+    m_SensorSize: {x: 1.778157, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -1890,7 +1890,6 @@ GameObject:
   - component: {fileID: 1744770846}
   - component: {fileID: 1744770848}
   - component: {fileID: 1744770849}
-  - component: {fileID: 1744770850}
   - component: {fileID: 1744770843}
   m_Layer: 13
   m_Name: Player
@@ -2073,20 +2072,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b546fab4da909e40ab23c5318735751, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1744770850
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1744770841}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8be3256e5a59d74eb84c11ad48d4c8b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  respawnPoint: {fileID: 0}
-  playerPrefab: {fileID: 8444428971573405357, guid: c11c786a08a76934c84bc427fab4e039, type: 3}
+  deathKick: {x: 40, y: 40}
+  playerLives: 3
 --- !u!1001 &1750501696
 PrefabInstance:
   m_ObjectHideFlags: 0
