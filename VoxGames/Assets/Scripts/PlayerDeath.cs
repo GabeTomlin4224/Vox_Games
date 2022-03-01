@@ -4,19 +4,35 @@ using UnityEngine;
 
 public class PlayerDeath : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Enemy"))
-        {
-            Destroy(gameObject);
-            LevelManager.instance.Respawn();
-        }
+   [SerializeField] Vector2 deathKick = new Vector2(25f, 25f);
+  
+  
+   bool isAlive = true;
+   CapsuleCollider2D myBodyCollider;
+   Rigidbody2D myRigidBody;
+   void Start ()
+   {
+       myBodyCollider = GetComponent<CapsuleCollider2D>();
+   }
+   
+   
+   void Update ()
+   {
+       if (!isAlive)
+       {
+           return;
+       }
 
-        if (collision.gameObject.CompareTag("Hazard"))
-        {
-            Destroy(gameObject);
-            LevelManager.instance.Respawn();
-        }
-    }
+       Die();
+   }
 
+
+   private void Die()
+   {
+       if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemy")))
+       {
+           isAlive = false;
+           GetComponent<Rigidbody2D>().velocity = deathKick;
+       }
+   }
 }
