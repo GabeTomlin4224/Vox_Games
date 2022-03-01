@@ -7,12 +7,14 @@ public class Player : MonoBehaviour
     [SerializeField] float runSpeed = 5f;
     [SerializeField] float jumpSpeed = 5f;
     Rigidbody2D myRigidBody;
-    Collider2D myCollider2D;
+    CapsuleCollider2D myBodyCollider2D;
+    BoxCollider2D myFeet;
     // Start is called before the first frame update
     void Start()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
-        myCollider2D = GetComponent<Collider2D>();
+        myBodyCollider2D = GetComponent<CapsuleCollider2D>();
+        myFeet = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
@@ -32,7 +34,7 @@ public class Player : MonoBehaviour
 
     private void Jump()
     {
-        if(!myCollider2D.IsTouchingLayers(LayerMask.GetMask("Ground")))
+        if(!myFeet.IsTouchingLayers(LayerMask.GetMask("Ground")))
         {
             return;
         }
