@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class NextScene : MonoBehaviour
+public class Menu : MonoBehaviour
 {
-     public void StartFirstLevel()
+     public void FirstLevel()
      {
-         SceneManager.LoadScene(3);
+         SceneManager.LoadScene(1);
      }
 
 }
