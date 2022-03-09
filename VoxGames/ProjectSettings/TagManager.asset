@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Hazard
   - startingPoint
+  - Timer
   layers:
   - Default
   - TransparentFX
@@ -25,7 +26,7 @@ TagManager:
   - Player
   - Enemy
   - Portal
-  - 
+  - Timer
   - 
   - 
   - 
