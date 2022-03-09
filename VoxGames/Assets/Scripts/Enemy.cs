@@ -26,7 +26,7 @@ public class Enemy : MonoBehaviour
         if(chase==true)
             Chase();
         else
-        ReturnStartPoint();
+            ReturnStartPoint();
         Flip();
     }
 
@@ -37,7 +37,7 @@ public class Enemy : MonoBehaviour
 
     private void ReturnStartPoint()
     {
-        transform.position = Vector2.MoveTowards(transform.position, startingPoint.transform.position, speed * Time.deltaTime);
+        transform.position = Vector2.MoveTowards(transform.position, startingPoint.position, speed * Time.deltaTime);
     }
 
     private void Flip()
