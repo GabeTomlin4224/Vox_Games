@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Enemy
   - Hazard
+  - Timer
   layers:
   - Default
   - TransparentFX
@@ -24,7 +25,7 @@ TagManager:
   - Player
   - Enemy
   - Portal
-  - 
+  - Timer
   - 
   - 
   - 
@@ -55,6 +56,9 @@ TagManager:
     locked: 0
   - name: Traps
     uniqueID: 2664016813
+    locked: 0
+  - name: Timer
+    uniqueID: 2783168965
     locked: 0
   - name: Portal
     uniqueID: 2753456741
