@@ -33,7 +33,7 @@ public class PlayerDeath : MonoBehaviour
 
     private void Die()
     {
-        if(myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemy", "Hazards")))
+        if(myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemy", "Hazards", "Timer")))
         {
             isAlive = false;
             GetComponent<Rigidbody2D>().velocity = deathKick;
