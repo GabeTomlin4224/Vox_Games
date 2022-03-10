@@ -17,13 +17,13 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
+  - Player
+  - InvisWall
   - Background2
   - Hazards
   - Background
   - Ground
-  - Player
+  - 
   - Enemy
   - Portal
   - Timer
@@ -72,4 +72,7 @@ TagManager:
     locked: 0
   - name: Objects
     uniqueID: 3030179833
+    locked: 0
+  - name: BallWall
+    uniqueID: 2394180079
     locked: 0

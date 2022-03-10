@@ -1,0 +1,1221 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19043.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16247 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55232
+Successfully changed project path to: C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
+C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 97.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/9r.7h/Documents/Github Files/Vox_Games/VoxGames/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 450 (ID=0x682b)
+    Vendor:   ATI
+    VRAM:     4076 MB
+    Driver:   24.20.11020.3002
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56776
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002384 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 91.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.405 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003879 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 90.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.075 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.0 MB.
+System memory in use after: 134.1 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3995.
+Total: 2.234100 ms (FindLiveObjects: 0.257600 ms CreateObjectMapping: 0.181700 ms MarkObjects: 1.693900 ms  DeleteObjects: 0.099900 ms)
+
+========================================================================
+Received Import Request.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26cb2b7617a1d1d6d6d05524476bb8f7') in 0.041937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 67.264434 seconds.
+  path: Assets/AlienTileSet/Sprites/Particles/Materials/falling_leaves.mat
+  artifactKey: Guid(b9609695bff840240856888828712695) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/AlienTileSet/Sprites/Particles/Materials/falling_leaves.mat using Guid(b9609695bff840240856888828712695) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b68b5a3068a4edb9f1eb2d6d7a334d16') in 0.082448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_front.jpg
+  artifactKey: Guid(8a34c4532f1ebdd4490dc17de736a7cd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_front.jpg using Guid(8a34c4532f1ebdd4490dc17de736a7cd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8afa544e031d9ea4149ac31510524f94') in 0.072092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Background
+  artifactKey: Guid(e12c2345565a9ba44b58fb655e1989cf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Background using Guid(e12c2345565a9ba44b58fb655e1989cf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'de9192d3e213ecbb6b1210102a003be4') in 0.007277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileLeftRight.png
+  artifactKey: Guid(43328411098f27d4dbe577fd4b4d9f15) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileLeftRight.png using Guid(43328411098f27d4dbe577fd4b4d9f15) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'dd1520ef8a06d1b5e6f304e8fc0758a5') in 0.029470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/AlienTileSet/TilePalette/GroundTiles.prefab
+  artifactKey: Guid(1bd3185ceca6bc54c87f09f952cf907d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/AlienTileSet/TilePalette/GroundTiles.prefab using Guid(1bd3185ceca6bc54c87f09f952cf907d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ce392141fe8fe25224e222b95ab6a14e') in 0.008898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_left.jpg
+  artifactKey: Guid(d58c7aa74edd6ee4e843a8c54307a8dd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_left.jpg using Guid(d58c7aa74edd6ee4e843a8c54307a8dd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '40de58f87ddde88f5da309439a3befae') in 0.007503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Scenes/Scene3.unity
+  artifactKey: Guid(cff82f790b74c3049a0d4d8c71f38db2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Scene3.unity using Guid(cff82f790b74c3049a0d4d8c71f38db2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0ced7433144a2446af651c3635dc644a') in 0.006514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes
+  artifactKey: Guid(3405c78618e70e046ad682c8c06c4342) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes using Guid(3405c78618e70e046ad682c8c06c4342) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a7e24e0ed4a0279e47845501c50e59fa') in 0.005750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/VioletTree_01.png
+  artifactKey: Guid(0ea2d438142d63f4da9a3d26c09921a0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/VioletTree_01.png using Guid(0ea2d438142d63f4da9a3d26c09921a0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '60a961949ffbb37ed267f11f5816e02f') in 0.015481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/AlienTileSet/Prefabs/Player.prefab
+  artifactKey: Guid(c11c786a08a76934c84bc427fab4e039) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/AlienTileSet/Prefabs/Player.prefab using Guid(c11c786a08a76934c84bc427fab4e039) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2556efdda6aa7d68723d8ca63a0564ca') in 0.008476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_back.jpg
+  artifactKey: Guid(3eade956c492d32458c3f3861da564a6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_back.jpg using Guid(3eade956c492d32458c3f3861da564a6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f93064c088b375fe198e74f2d60ad66b') in 0.005069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Lever/LeverUp.png
+  artifactKey: Guid(d002eee2b7a4ced4d82149a2f764a3b6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Lever/LeverUp.png using Guid(d002eee2b7a4ced4d82149a2f764a3b6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7bcedf9f9d8a96b2b7ceeab1a0dee8a8') in 0.020134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Ladders/Ladder_02.png
+  artifactKey: Guid(9a23dc9da5aeadf4384f2ef234210a57) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Ladders/Ladder_02.png using Guid(9a23dc9da5aeadf4384f2ef234210a57) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3b334bc2555550a969dbb20e8abc902b') in 0.020655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/GreenBush.png
+  artifactKey: Guid(da20a98f295c37f45a640ed110f4cc95) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/GreenBush.png using Guid(da20a98f295c37f45a640ed110f4cc95) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9eeea63e033257f5be375cdc779b62b6') in 0.016116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Scripts/BackToMain.cs
+  artifactKey: Guid(8856c3027479f4841b8567af41003235) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/BackToMain.cs using Guid(8856c3027479f4841b8567af41003235) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b2e20e7fa658ae201cfc84e33ee6aaca') in 0.045688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/GrassDown_02.png
+  artifactKey: Guid(058550cb77f069e4396c1ed3b73b21d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/GrassDown_02.png using Guid(058550cb77f069e4396c1ed3b73b21d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4f474e9509a7dbd13a05d3bcd1c570e1') in 0.017558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Platforms
+  artifactKey: Guid(b659e377044f6e84689255741e67af15) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Platforms using Guid(b659e377044f6e84689255741e67af15) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6b8cb73cee156c8dca17d9e03280c395') in 0.006638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroJump_0.controller
+  artifactKey: Guid(dc689dcf0f2a62244b231798e30405c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroJump_0.controller using Guid(dc689dcf0f2a62244b231798e30405c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e5971cfb0e24711b198a88a128258d52') in 0.007634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/GreenTree_01.png
+  artifactKey: Guid(1fd6c0bea09fddd499980688c890931a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/GreenTree_01.png using Guid(1fd6c0bea09fddd499980688c890931a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c83e6bd45b5bcf71b07c76b4c6cf451e') in 0.023092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/3Skyboxes
+  artifactKey: Guid(1ee3307e01c6158408741dc86d3e49d8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes using Guid(1ee3307e01c6158408741dc86d3e49d8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '627ce569068cd9339a008b000f4eadfc') in 0.005869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Stones/Stone_03.png
+  artifactKey: Guid(531796e321c43e9488fc22ad89f3921f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Stones/Stone_03.png using Guid(531796e321c43e9488fc22ad89f3921f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'bbce9825036d7a49762e9a5afd35518c') in 0.019268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/3Skyboxes/Skybox_BlueNebular_Textures
+  artifactKey: Guid(87c917f076039a44588d83a12bb01094) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BlueNebular_Textures using Guid(87c917f076039a44588d83a12bb01094) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '76390dc8b200450f145bebc7099099b7') in 0.006184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_right.jpg
+  artifactKey: Guid(942a24a67e4303f41b6f89fcc0e02456) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_right.jpg using Guid(942a24a67e4303f41b6f89fcc0e02456) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ae1d0da6f6f26a8ee44ef425d4aca3e8') in 0.006037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_top.jpg
+  artifactKey: Guid(dde976bcdaaea1143b8a48a75b7557be) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_top.jpg using Guid(dde976bcdaaea1143b8a48a75b7557be) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6324ee4db78eeae9d38bea295d626380') in 0.006195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Scripts/Enemy.cs
+  artifactKey: Guid(78cc8a3675d72224e850bfd227d3cd9f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Enemy.cs using Guid(78cc8a3675d72224e850bfd227d3cd9f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0c62325055c0c079a9bc013e89192bfc') in 0.006313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(3d5d66f574eb64043ac7002975930704) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Player.cs using Guid(3d5d66f574eb64043ac7002975930704) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6decb0cf2fdf2f6b05053ffe66216aa6') in 0.007089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Crystals/Crystal_03.png
+  artifactKey: Guid(06443816dcf9c55449f8c2107d2c0507) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Crystals/Crystal_03.png using Guid(06443816dcf9c55449f8c2107d2c0507) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '81a7d88c8ed390f4bab82c88071c3610') in 0.009897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileUp.png
+  artifactKey: Guid(17e40cecbd93db641ada5f1e038c89ed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileUp.png using Guid(17e40cecbd93db641ada5f1e038c89ed) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '14f0b0a809c254a249d359d3ba512b50') in 0.021492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroLadder_0.controller
+  artifactKey: Guid(89bacb2a8e1b5d041b47cc9a30a064f4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroLadder_0.controller using Guid(89bacb2a8e1b5d041b47cc9a30a064f4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4d09bdc9606d2c81c12f98a98efebfc9') in 0.005393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileFull.png
+  artifactKey: Guid(81798902eea5e0c4caab6112ba05f783) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileFull.png using Guid(81798902eea5e0c4caab6112ba05f783) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '16ac3eb63ad2c75e11bd1de168fd3019') in 0.017020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Stones/Stone_02.png
+  artifactKey: Guid(c4c9f83e178f8a743bb8e5099c83ffda) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Stones/Stone_02.png using Guid(c4c9f83e178f8a743bb8e5099c83ffda) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '149bcd71d4a5f4280649d35e449c80bc') in 0.020741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(a7ec0c5d305967d4aa1d4b0463b1d39b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts using Guid(a7ec0c5d305967d4aa1d4b0463b1d39b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '755577180b13c629ef6518da5cdb2c75') in 0.004630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Scripts/ChaseControl.cs
+  artifactKey: Guid(3fcdd1d432716ff4f9a2cca527aec4b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/ChaseControl.cs using Guid(3fcdd1d432716ff4f9a2cca527aec4b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '513dcd9b3c8179ba80dfa42195c05117') in 0.006108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Scripts/PlayerDeath.cs
+  artifactKey: Guid(2b546fab4da909e40ab23c5318735751) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/PlayerDeath.cs using Guid(2b546fab4da909e40ab23c5318735751) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '73f91dff25cec34a12887be2a3af7612') in 0.006497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/VioletMushroom_02.png
+  artifactKey: Guid(9cd9401400962034eb249e1823bc1917) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/VioletMushroom_02.png using Guid(9cd9401400962034eb249e1823bc1917) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9afa140edf3b306bdc4f10c179534f66') in 0.028399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/CoronaTRAPS
+  artifactKey: Guid(3e65fe7c69e5e994a96d32bf74535b34) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/CoronaTRAPS using Guid(3e65fe7c69e5e994a96d32bf74535b34) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '73b34db00fc7c4eda98edb2f8e997758') in 0.012736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Stones
+  artifactKey: Guid(c9c1d1b07d7e0b1479cc184eee55f906) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Stones using Guid(c9c1d1b07d7e0b1479cc184eee55f906) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c0907afd01204ecb210e6c72efec68ff') in 0.006338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Crystals/Crystal_01.png
+  artifactKey: Guid(74a5671230dc7084fa09de6ca3a551ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Crystals/Crystal_01.png using Guid(74a5671230dc7084fa09de6ca3a551ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2ebb13cf3772b9110a7f117edc785239') in 0.021405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Free Pixel Space Platform Pack
+  artifactKey: Guid(75dc117821d64064cb3024f838e62578) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack using Guid(75dc117821d64064cb3024f838e62578) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '13a510783d210988b83ff52d3479fd6b') in 0.007047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/GrassDown_01.png
+  artifactKey: Guid(88ef4bfdabca9e644a0a8f1e0c592cba) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/GrassDown_01.png using Guid(88ef4bfdabca9e644a0a8f1e0c592cba) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cf3c8245ccb030a25b6164ac119fbe7c') in 0.018096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/3Skyboxes/Materials/Skybox_BluePinkNebular.mat
+  artifactKey: Guid(939e9a2214e37ec4e8eb4fe85d074704) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Materials/Skybox_BluePinkNebular.mat using Guid(939e9a2214e37ec4e8eb4fe85d074704) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'dddae817d748cf05769d455fab52f7a8') in 0.010127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroStay.png
+  artifactKey: Guid(7147553b1e72eec449c5ace4f9f4d13a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroStay.png using Guid(7147553b1e72eec449c5ace4f9f4d13a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4a968cb046115d4350a6135bc66ac2fa') in 0.007765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_front.jpg
+  artifactKey: Guid(64256e95256b9064bb85c6658ea884aa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_front.jpg using Guid(64256e95256b9064bb85c6658ea884aa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '00b6b43f7a54ea7217b5368fdc9a9409') in 0.006266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Crystals
+  artifactKey: Guid(c2cd175370d288f419127e24904d4b6b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Crystals using Guid(c2cd175370d288f419127e24904d4b6b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c3fbb7e241930a159ee50f0776de07ea') in 0.007012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Platforms/Platform_02.png
+  artifactKey: Guid(47957807853b0834a856ac1590c64791) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Platforms/Platform_02.png using Guid(47957807853b0834a856ac1590c64791) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9e92b64a0215ca667d37c339beab4f12') in 0.052050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Scripts/PortalScript.cs
+  artifactKey: Guid(45a6345e9cead954eb8df63b20cd7571) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/PortalScript.cs using Guid(45a6345e9cead954eb8df63b20cd7571) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '77f525481e96d8fadb2f03d5ff3fe3ef') in 0.006762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Scene/Demo.unity
+  artifactKey: Guid(30c41cc99e3585b498c76cd3ca410b7d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Scene/Demo.unity using Guid(30c41cc99e3585b498c76cd3ca410b7d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '54d50c5e4b1ca5b7df5103338e54a3b4') in 0.007808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Platforms/Platform_01.png
+  artifactKey: Guid(d5a5a095533998846bf0837cde435e5d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Platforms/Platform_01.png using Guid(d5a5a095533998846bf0837cde435e5d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8dac893003e36c521df908713961cae1') in 0.019242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut
+  artifactKey: Guid(9f94db1720caf7c43a8ec3fef087eb51) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut using Guid(9f94db1720caf7c43a8ec3fef087eb51) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '02de929c2556b28ef58925d798577a0c') in 0.005291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroWalk.png
+  artifactKey: Guid(dfc7090c56f3626418196653e1eb610d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroWalk.png using Guid(dfc7090c56f3626418196653e1eb610d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9f0320820eb623f8e7c549be79b3c963') in 0.015976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/GreenTree_03.png
+  artifactKey: Guid(6b7a70471676896428a5f414f73c2134) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/GreenTree_03.png using Guid(6b7a70471676896428a5f414f73c2134) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0fbc82caac243db3701e86793d6fe79f') in 0.027520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileUpRight.png
+  artifactKey: Guid(1823a931f6945c54086916081c699694) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileUpRight.png using Guid(1823a931f6945c54086916081c699694) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9044ef42d25f0f9cfc3a0e9c755773bf') in 0.020498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Lever
+  artifactKey: Guid(d79906e062bc82d49bad94532ae7b1ae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Lever using Guid(d79906e062bc82d49bad94532ae7b1ae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8c37b07b2c5fd2116403f553e0000987') in 0.007005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/Jump.anim
+  artifactKey: Guid(54d18717f12fb7f43ae9295953831b96) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/Jump.anim using Guid(54d18717f12fb7f43ae9295953831b96) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2eacc8403668c362a2091efc2ac8f920') in 0.007004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/3Skyboxes/Materials/Skybox_BlueNebular.mat
+  artifactKey: Guid(b6a3f8bca2c865243929bac258c89b96) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Materials/Skybox_BlueNebular.mat using Guid(b6a3f8bca2c865243929bac258c89b96) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7318d09f2c8b998fd9e9e16eb90654ec') in 0.007699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileRightDown.png
+  artifactKey: Guid(3f60caf1034881949921abac5e6ce960) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileRightDown.png using Guid(3f60caf1034881949921abac5e6ce960) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'de7465af15a0bf8650416904cc0ed766') in 0.066481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/CoronaTRAPS/Corona1.asset
+  artifactKey: Guid(6e0b3e42235d25e4ab727e89961e71b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/CoronaTRAPS/Corona1.asset using Guid(6e0b3e42235d25e4ab727e89961e71b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1ef37ae7f49110b9cdd4c7d309b854fd') in 0.007731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroLadder.png
+  artifactKey: Guid(9e32e8a78482a0142b7d8c36040d3ad5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroLadder.png using Guid(9e32e8a78482a0142b7d8c36040d3ad5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a02c39d1f2aed85a5f45c5f10b27917c') in 0.021796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/3Skyboxes/Skybox_GreenNebular_Textures
+  artifactKey: Guid(4d2ede82f4f2f6b4287c608a270d1393) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_GreenNebular_Textures using Guid(4d2ede82f4f2f6b4287c608a270d1393) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ab5d765807f14fb88275485d46c2d0d6') in 0.006388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/GrassUp.png
+  artifactKey: Guid(c33597f3b548250438320bd772ebb30e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/GrassUp.png using Guid(c33597f3b548250438320bd772ebb30e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '22ce42c70c3e01bcf0529f913e69eb40') in 0.024123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_right.jpg
+  artifactKey: Guid(06b96ca4707fbf24e80cbcfe2ab88549) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_right.jpg using Guid(06b96ca4707fbf24e80cbcfe2ab88549) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'eca14ec57e03110eb7e414412c0cb47f') in 0.005765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png
+  artifactKey: Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileForward.png using Guid(046b0256d2fa2c64fb3a7689fffbaf3f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4c63f634b4d664b85e3c0dad32b2bc98') in 0.030787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/VioletMushroom_01.png
+  artifactKey: Guid(91b8dcd8b97f858439485b63a6278b62) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/VioletMushroom_01.png using Guid(91b8dcd8b97f858439485b63a6278b62) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd7c3128c3c28cb954557f28a2188265c') in 0.021873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/3Skyboxes/Skybox_BluePinkNebular_Textures
+  artifactKey: Guid(b4cab0d8616f5694c8b18dbfa43a508c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BluePinkNebular_Textures using Guid(b4cab0d8616f5694c8b18dbfa43a508c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a02a8b22443d80933e748d3bf3236f50') in 0.005403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(3bf4fabffd2fc5548b8c0e9bad066260) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Menu.cs using Guid(3bf4fabffd2fc5548b8c0e9bad066260) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a85fe6b096e46abe2bcc2db90fe2c66d') in 0.005361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Scripts/Bouncy.physicsMaterial2D
+  artifactKey: Guid(48996dbdf14b5344697a07b36b53bdf4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Bouncy.physicsMaterial2D using Guid(48996dbdf14b5344697a07b36b53bdf4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '71c0bfb27cfe47668bd42a20401fefde') in 0.007274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_top.jpg
+  artifactKey: Guid(28f149f9eb20447449d4fdd6acf3ee77) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_top.jpg using Guid(28f149f9eb20447449d4fdd6acf3ee77) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b4e3aeef64ddf949b48db7000c82cd35') in 0.005839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Scenes/Scene1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Scene1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f79a481c85598e80848b4eea4c71735b') in 0.005237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Lever/LeverDown.png
+  artifactKey: Guid(53fe5536596828e4d825b293ed6fa148) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Lever/LeverDown.png using Guid(53fe5536596828e4d825b293ed6fa148) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '543b7949d8dfe7d9d036207aa9ce754b') in 0.018949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_left.jpg
+  artifactKey: Guid(efcf604c3a25bf940b9644440b847e8f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_left.jpg using Guid(efcf604c3a25bf940b9644440b847e8f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3d8d37d4e48f97bf1aa21f11330f4068') in 0.005081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileRight.png
+  artifactKey: Guid(8b819abfb4eeafe45a4667aa149e8ebc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileRight.png using Guid(8b819abfb4eeafe45a4667aa149e8ebc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '40c816bae3462d87d214f060c119cd98') in 0.013033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles
+  artifactKey: Guid(a0d815329c8e65740ac96703b0230571) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles using Guid(a0d815329c8e65740ac96703b0230571) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '48e823d2151e9da27b24e6224c93c515') in 0.017989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Player_Animation.controller
+  artifactKey: Guid(d86a060c6994a8745ae5986c11ace436) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Player_Animation.controller using Guid(d86a060c6994a8745ae5986c11ace436) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6b749bf6dd684fb5e5873e5316a2a44f') in 0.005909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroWalk_0.controller
+  artifactKey: Guid(b9901ed754b2c1a469259156df03f85c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroWalk_0.controller using Guid(b9901ed754b2c1a469259156df03f85c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '62ba267e8f299eb77d0339731ae5834e') in 0.004980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Stones/Stone_01.png
+  artifactKey: Guid(debef134526346940b471883e36516ad) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Stones/Stone_01.png using Guid(debef134526346940b471883e36516ad) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7abc80c0c16a216f1087d950e65ae2ff') in 0.021896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/Walk.anim
+  artifactKey: Guid(267b1aa5a210696488fa09317bf45276) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/Walk.anim using Guid(267b1aa5a210696488fa09317bf45276) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cb528b4ffe16dbdfe5231aef2aca61aa') in 0.005334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Scripts/New Piskel-1.png
+  artifactKey: Guid(935e5c64815efa047bac87185b0391e4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/New Piskel-1.png using Guid(935e5c64815efa047bac87185b0391e4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a53d99508fe66e57a3faf406db8a7052') in 0.008209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileLeftUp.png
+  artifactKey: Guid(ff793d54fae323941b4955f1ab01f702) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileLeftUp.png using Guid(ff793d54fae323941b4955f1ab01f702) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '34d3be14294cfe24a53c359943e07ad9') in 0.020695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_bottom.jpg
+  artifactKey: Guid(207cfef1caffafe4b90f5b358ab27ca6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_bottom.jpg using Guid(207cfef1caffafe4b90f5b358ab27ca6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '281e21bdd09d2b44122b71bb1f9edb6c') in 0.005604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_03.png
+  artifactKey: Guid(f9ca9e3ba4deed54988fe281e5ccf4ef) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_03.png using Guid(f9ca9e3ba4deed54988fe281e5ccf4ef) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '74a540d40f520fae45b92ee35d393417') in 0.019695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Scripts/NextScene.cs
+  artifactKey: Guid(ee9712f61af6c97419f66877f74e611d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/NextScene.cs using Guid(ee9712f61af6c97419f66877f74e611d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a2e0dd53872137ffdbc744b529a85958') in 0.005701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Scripts/FinalLevel.cs
+  artifactKey: Guid(4ed8fa9c15eb4994588ae852872c3ebd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/FinalLevel.cs using Guid(4ed8fa9c15eb4994588ae852872c3ebd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd5b0cc3d78d463a95621a2b02cdbcaec') in 0.005247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/AlienTileSet/Prefabs/Moon/Planet_big_purple_512x512.prefab
+  artifactKey: Guid(8952ef33a6b31ee4cafac7eb203e4694) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/AlienTileSet/Prefabs/Moon/Planet_big_purple_512x512.prefab using Guid(8952ef33a6b31ee4cafac7eb203e4694) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b529a141c3d41fd1860e7dd838288aa1') in 0.009113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Portal/PortalOn.png
+  artifactKey: Guid(a250755ac1951bb4fa0ea9b06a3408a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Portal/PortalOn.png using Guid(a250755ac1951bb4fa0ea9b06a3408a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '891cfd4f17c1a000b7180feaf33abaf6') in 0.008071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/CoronaTRAPS/New Piskel-1.asset
+  artifactKey: Guid(7d69b0bed88ffb94f8e85ae56e87e4e4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/CoronaTRAPS/New Piskel-1.asset using Guid(7d69b0bed88ffb94f8e85ae56e87e4e4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '91732b6b274d17580c5cc6018510a5a6') in 0.032455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroWalking.anim
+  artifactKey: Guid(ebb8fea1a7a452741b5e13e2ba9430da) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroWalking.anim using Guid(ebb8fea1a7a452741b5e13e2ba9430da) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3d4eecfee7e0e0603650b36a2afb2869') in 0.005380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/3Skyboxes/Materials
+  artifactKey: Guid(ed97212ca52cbbb4e85b0713a86ed029) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Materials using Guid(ed97212ca52cbbb4e85b0713a86ed029) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1381d01e5e26d8ad0f37b08ae7a7319d') in 0.005858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scenes/Scene5-Ending.unity
+  artifactKey: Guid(cb84d962f5276ae4eae0026bfac5c4d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Scene5-Ending.unity using Guid(cb84d962f5276ae4eae0026bfac5c4d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7800a12daabfe0c888295804724298e9') in 0.005449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_left.jpg
+  artifactKey: Guid(a0935b50d63b2eb4a8564893347c3692) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_left.jpg using Guid(a0935b50d63b2eb4a8564893347c3692) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '519486aaa706cfbfe3b1c98ca6b4e45a') in 0.005265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_right.jpg
+  artifactKey: Guid(11cecf538f048a54aa8b7a513faab662) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BluePinkNebular_Textures/BluePinkNebular_right.jpg using Guid(11cecf538f048a54aa8b7a513faab662) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cfa883c3ddababf23f1407407a8fa5fc') in 0.006792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_back.jpg
+  artifactKey: Guid(714add663c6602a45ae7182a6c144323) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_back.jpg using Guid(714add663c6602a45ae7182a6c144323) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2b86ec7bea3b396598ad62c6de5492a9') in 0.005510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/CoronaTRAPS/Corona.prefab
+  artifactKey: Guid(008e5da0366d3534a92447c1814df809) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/CoronaTRAPS/Corona.prefab using Guid(008e5da0366d3534a92447c1814df809) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '820947d4d3812c44c86307d729f876f5') in 0.006011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Scene
+  artifactKey: Guid(ccb8ab6fba174a64ca0db8221f32a86c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Scene using Guid(ccb8ab6fba174a64ca0db8221f32a86c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e40a811ac7ffb082c0d193984dc57139') in 0.004945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/Idle.anim
+  artifactKey: Guid(7f273211f891e6044b84b65c48b5a3ae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/Idle.anim using Guid(7f273211f891e6044b84b65c48b5a3ae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c042b1bdb3f2df85bb2efe255d9bea7b') in 0.005540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileLeft.png
+  artifactKey: Guid(6a76e32b09013ab438a77b41d382d353) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileLeft.png using Guid(6a76e32b09013ab438a77b41d382d353) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f0bf1f507d99ccb755df6f5cc12274bf') in 0.029190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/New Piskel (5).png
+  artifactKey: Guid(f604c3f4d83a26747913fcda2747733f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/New Piskel (5).png using Guid(f604c3f4d83a26747913fcda2747733f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '843133f572c6122d961e8a46ccece01b') in 0.008474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Boxes/Box_02.png
+  artifactKey: Guid(3893185237368e74eab199e2a1a99651) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Boxes/Box_02.png using Guid(3893185237368e74eab199e2a1a99651) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '22fea41dc04593e849fd4918255f2aa6') in 0.014407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_02.png
+  artifactKey: Guid(dddd89db6df12524186d273282174949) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_02.png using Guid(dddd89db6df12524186d273282174949) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '26da709afd768d37eb0176f9faa9a88d') in 0.016048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/AlienTileSet/TilePalette/BackgroundTiles.prefab
+  artifactKey: Guid(6cbfd1cc0525aa240b26ff7f20a2afa4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/AlienTileSet/TilePalette/BackgroundTiles.prefab using Guid(6cbfd1cc0525aa240b26ff7f20a2afa4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd916d53b16e958bc3d8c0dbb37a621a2') in 0.006319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroJump.png
+  artifactKey: Guid(595455060f74ad64b8c6e73ef963ec3d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroJump.png using Guid(595455060f74ad64b8c6e73ef963ec3d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7e0c24291459a34b7ea11f3416a7bccb') in 0.020686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Scenes/Scene2.unity
+  artifactKey: Guid(79c5e39865f23b94f936f85c98348f01) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Scene2.unity using Guid(79c5e39865f23b94f936f85c98348f01) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4737bc26cc7cb4fa9f3edad232579019') in 0.004352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants
+  artifactKey: Guid(5b424c2ec79f32641b8579ba8aebd0bc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants using Guid(5b424c2ec79f32641b8579ba8aebd0bc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '74e95d5849e070e9d8895b90ff508570') in 0.004967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_top.jpg
+  artifactKey: Guid(85f7e8a396aa40545a6748bc184a7a58) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_top.jpg using Guid(85f7e8a396aa40545a6748bc184a7a58) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0bad969d43a2345e9b49443bb8a8a0b2') in 0.005041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_04.png
+  artifactKey: Guid(9a80b48bb9ff266408fd34f946cae49c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_04.png using Guid(9a80b48bb9ff266408fd34f946cae49c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '477230c8836955d31d5f09d01b9b81df') in 0.028665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/LadderUp.anim
+  artifactKey: Guid(902b9b73b66f7b14a9b7fe23732e61f1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/LadderUp.anim using Guid(902b9b73b66f7b14a9b7fe23732e61f1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6d6999a9a6ce82ce6e0a12d0613bba7e') in 0.004807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Scripts/Zero Friction.physicsMaterial2D
+  artifactKey: Guid(725a3c298fc3f55468fd6c12b6fa9d4b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Zero Friction.physicsMaterial2D using Guid(725a3c298fc3f55468fd6c12b6fa9d4b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f5f0c98829cbd72e1f9ddf58cfbe3d34') in 0.008004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Scenes/Scene4.unity
+  artifactKey: Guid(7eb45156da131844a9fe1dfbdf77bf63) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Scene4.unity using Guid(7eb45156da131844a9fe1dfbdf77bf63) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b70559d43b31c900e5a09707163dff12') in 0.005234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Scenes/Menu.Controls.unity
+  artifactKey: Guid(d7b8d55aef4c4f947bd9bcd4d7d9f557) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Menu.Controls.unity using Guid(d7b8d55aef4c4f947bd9bcd4d7d9f557) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '824b3d08e63a02f91854e8963fa4c2df') in 0.005095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_back.jpg
+  artifactKey: Guid(7746a063e6e271145891203c623e3ba0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_back.jpg using Guid(7746a063e6e271145891203c623e3ba0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd0d6fdbc56bad26ef04b83dcd8884627') in 0.006988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/3Skyboxes/Materials/Skybox_GreenNebular.mat
+  artifactKey: Guid(2d59d810ba900874295015e507e19f2e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Materials/Skybox_GreenNebular.mat using Guid(2d59d810ba900874295015e507e19f2e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '461e07550e62d0a0939407777994369c') in 0.004920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Portal/PortalOff.png
+  artifactKey: Guid(ecb1aaf3f627cd44e80d674bfd9228f2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Portal/PortalOff.png using Guid(ecb1aaf3f627cd44e80d674bfd9228f2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '96e19e08e1e390c666b8d9b7eee457f7') in 0.024296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileBack.png
+  artifactKey: Guid(a1aa568a921b5c542a627167f51b1f4d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileBack.png using Guid(a1aa568a921b5c542a627167f51b1f4d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b7f58d67ae0dfe9f091a24d50ec68841') in 0.013104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/LeftSteps.png
+  artifactKey: Guid(2e95defa14adf5e41b37eebf7a7db3ee) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/LeftSteps.png using Guid(2e95defa14adf5e41b37eebf7a7db3ee) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e5ab1af49d129fa7534c59accc0f95d7') in 0.018209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_01.png
+  artifactKey: Guid(2bf6f07b07a95fa4b82d50ebaa4d46c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_01.png using Guid(2bf6f07b07a95fa4b82d50ebaa4d46c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4280b6bd3b6f5cbbf9a0219f53467e8f') in 0.027015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_bottom.jpg
+  artifactKey: Guid(8f042aa2fffc37643a0ca2fa3cfafbd1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_BlueNebular_Textures/BlueNebular_bottom.jpg using Guid(8f042aa2fffc37643a0ca2fa3cfafbd1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '261e334ea6565eb31bdae38e3ffdcfbf') in 0.005293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/VioletTree_02.png
+  artifactKey: Guid(f54556ea2c55aef46af457e96846a98c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/VioletTree_02.png using Guid(f54556ea2c55aef46af457e96846a98c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'eb12b387b8cdcdacb13cd34d58098c9d') in 0.019852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/AlienTileSet/Sprites/Tiles/CoronaTrap.asset
+  artifactKey: Guid(bf021a7752d54c04e8b6586d15de4456) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/AlienTileSet/Sprites/Tiles/CoronaTrap.asset using Guid(bf021a7752d54c04e8b6586d15de4456) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e040487ef0c83aeb51b182018a61b3dd') in 0.013447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Scripts/LevelManager.cs
+  artifactKey: Guid(e8be3256e5a59d74eb84c11ad48d4c8b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/LevelManager.cs using Guid(e8be3256e5a59d74eb84c11ad48d4c8b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '58175b2eeb9bdc9e86149a8002c621b0') in 0.005935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileUpDown.png
+  artifactKey: Guid(84c1461c959bb7d498afda3d0f38f5aa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileUpDown.png using Guid(84c1461c959bb7d498afda3d0f38f5aa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e5cd2c854f90330aee01de52a633c00d') in 0.016522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileLeftDown.png
+  artifactKey: Guid(5f34e21b0e293934bab9c47e1b2f6118) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileLeftDown.png using Guid(5f34e21b0e293934bab9c47e1b2f6118) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a33a53ceb299ac9cf96fe82294e7bc8d') in 0.016542 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_front.jpg
+  artifactKey: Guid(4aa19d95d8173e847800d660d21da970) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_front.jpg using Guid(4aa19d95d8173e847800d660d21da970) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ea8da2adf3085a19587290ddee0d2de6') in 0.005865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/VioletTree_03.png
+  artifactKey: Guid(d7c4331171b8f1d4da407a4bd6d4f8f4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/VioletTree_03.png using Guid(d7c4331171b8f1d4da407a4bd6d4f8f4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b5fd7e99819e59084a357c901679c5fe') in 0.018188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Ladders/Ladder_01.png
+  artifactKey: Guid(620def5c8baa13d4e8e6ee6f2fc64d7d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Ladders/Ladder_01.png using Guid(620def5c8baa13d4e8e6ee6f2fc64d7d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1e588456e2f48238657b463c76573974') in 0.014795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Ladders
+  artifactKey: Guid(96cd09886ef21d94ba1637fa8e29ee20) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Ladders using Guid(96cd09886ef21d94ba1637fa8e29ee20) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2cc7ebb114a0b2d92f1fd63ee0524693') in 0.004460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Plants/GreenTree_02.png
+  artifactKey: Guid(94f96ef6adad1744a814e6b8ece0ec8d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Plants/GreenTree_02.png using Guid(94f96ef6adad1744a814e6b8ece0ec8d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '10d2f214b7ea76f1821fb4d6cf213757') in 0.020623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Boxes/Box_01.png
+  artifactKey: Guid(1470a8da87de4eb44966e953ef10b55e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Boxes/Box_01.png using Guid(1470a8da87de4eb44966e953ef10b55e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7ce5df866b3ad9ffb5f77f3092541537') in 0.016926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Boxes
+  artifactKey: Guid(4784346a78de7724cb638031b35a7277) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Boxes using Guid(4784346a78de7724cb638031b35a7277) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8d19b520919f54cfdd4e8fac43046d5c') in 0.005149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Portal
+  artifactKey: Guid(04174a520acdf614392a06beff124411) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Portal using Guid(04174a520acdf614392a06beff124411) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3eb36ed99d28c85f1801e7da7b16da18') in 0.004558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Background/SpaceBackGround.png
+  artifactKey: Guid(7531ee5749d7b3c41a9c675fd9e784e9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Background/SpaceBackGround.png using Guid(7531ee5749d7b3c41a9c675fd9e784e9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '539a512f1c6510fe790c8c692529e760') in 0.039028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_bottom.jpg
+  artifactKey: Guid(aba337558e31df94c843ecab2a85ebe9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/3Skyboxes/Skybox_GreenNebular_Textures/GreenNebular_bottom.jpg using Guid(aba337558e31df94c843ecab2a85ebe9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5afd5ca8bc44a674696bc8267ac7da9b') in 0.004835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png
+  artifactKey: Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/TileDown.png using Guid(d2a5aa6ad9ecd36438e3d96c46673937) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e4712cdf6553c67663dd9644c87facda') in 0.020949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Spikes/Spike_05.png
+  artifactKey: Guid(787eeb44b2cc7a347be0f5bcae610819) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Spikes/Spike_05.png using Guid(787eeb44b2cc7a347be0f5bcae610819) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4cf4bdd276105fcb91f07e43a7a13c77') in 0.018024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Tiles/RightSteps.png
+  artifactKey: Guid(fe3f133074dcf2a4b9f89535360ad89f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Tiles/RightSteps.png using Guid(fe3f133074dcf2a4b9f89535360ad89f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c558d1b20dcf06726156b2d928cb5261') in 0.028171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Crystals/Crystal_02.png
+  artifactKey: Guid(7a4e2a16a00a6d645b159d4890bfc3a4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Free Pixel Space Platform Pack/Crystals/Crystal_02.png using Guid(7a4e2a16a00a6d645b159d4890bfc3a4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '16a89ac72268d3841c16a77e3ccdc075') in 0.029407 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3995.
+Total: 3.368700 ms (FindLiveObjects: 0.283700 ms CreateObjectMapping: 0.184900 ms MarkObjects: 2.806000 ms  DeleteObjects: 0.093000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003593 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.0 MB.
+System memory in use after: 134.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3999.
+Total: 2.862800 ms (FindLiveObjects: 0.343000 ms CreateObjectMapping: 0.209900 ms MarkObjects: 2.207600 ms  DeleteObjects: 0.100800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003522 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.944 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4003.
+Total: 3.188000 ms (FindLiveObjects: 0.332600 ms CreateObjectMapping: 0.221100 ms MarkObjects: 2.490900 ms  DeleteObjects: 0.141900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003850 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.950 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4007.
+Total: 2.356600 ms (FindLiveObjects: 0.259500 ms CreateObjectMapping: 0.179400 ms MarkObjects: 1.828000 ms  DeleteObjects: 0.088900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003727 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.907 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4011.
+Total: 2.332200 ms (FindLiveObjects: 0.254100 ms CreateObjectMapping: 0.167600 ms MarkObjects: 1.820900 ms  DeleteObjects: 0.088200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 404.835964 seconds.
+  path: Assets/Scenes/Scene5-Ending 1.unity
+  artifactKey: Guid(d7edb99d64414704595201016a750fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene5-Ending 1.unity using Guid(d7edb99d64414704595201016a750fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65dfdcb7991216c95b090b45c1c616b1') in 0.012351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Scenes/Scene5-Ending 1.unity
+  artifactKey: Guid(d7edb99d64414704595201016a750fd0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Scene5-Ending 1.unity using Guid(d7edb99d64414704595201016a750fd0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '95a678d7a06f05956afc62d208dfe0c1') in 0.052226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.334897 seconds.
+  path: Assets/Scenes/EndScene.unity
+  artifactKey: Guid(d7edb99d64414704595201016a750fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/EndScene.unity using Guid(d7edb99d64414704595201016a750fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104edd0568429a7764498813c1a92e93') in 0.002822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.939362 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(103dbc1c9f37a16459446ff2683194a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(103dbc1c9f37a16459446ff2683194a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd73281ba71fcb8edab8cf0cd5741bed') in 0.005698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025875 seconds.
+  path: Assets/Scenes/EndScene.unity
+  artifactKey: Guid(d7edb99d64414704595201016a750fd0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/EndScene.unity using Guid(d7edb99d64414704595201016a750fd0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '27115b5dbe9d34fdead690f79f7dc14b') in 0.004775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.769158 seconds.
+  path: Assets/Scenes/Scene3.unity
+  artifactKey: Guid(cff82f790b74c3049a0d4d8c71f38db2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Scene3.unity using Guid(cff82f790b74c3049a0d4d8c71f38db2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '79739480b2d221696c48a873ef518835') in 0.006887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.155444 seconds.
+  path: Assets/Scenes/EndScene.unity
+  artifactKey: Guid(d7edb99d64414704595201016a750fd0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/EndScene.unity using Guid(d7edb99d64414704595201016a750fd0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f79a6cbd16739d46b809edc19aa0a2e6') in 0.008053 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003582 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.892 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.2 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4015.
+Total: 2.238800 ms (FindLiveObjects: 0.251600 ms CreateObjectMapping: 0.175900 ms MarkObjects: 1.726800 ms  DeleteObjects: 0.083600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.175212 seconds.
+  path: Assets/Scenes/Scene4.unity
+  artifactKey: Guid(7eb45156da131844a9fe1dfbdf77bf63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene4.unity using Guid(7eb45156da131844a9fe1dfbdf77bf63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a435529e8cc18dc2ba981b8d498af48c') in 0.016957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.341548 seconds.
+  path: Assets/Scenes/EndScene.unity
+  artifactKey: Guid(d7edb99d64414704595201016a750fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/EndScene.unity using Guid(d7edb99d64414704595201016a750fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5dafd1159c7c040d0693fb2d118147c') in 0.002654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.601239 seconds.
+  path: Assets/Scenes/Menu.Controls.unity
+  artifactKey: Guid(d7b8d55aef4c4f947bd9bcd4d7d9f557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.Controls.unity using Guid(d7b8d55aef4c4f947bd9bcd4d7d9f557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7e5238d7a88db82bc34db10b0ddd3f') in 0.003274 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003648 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.199 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.2 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4019.
+Total: 2.239200 ms (FindLiveObjects: 0.257700 ms CreateObjectMapping: 0.178300 ms MarkObjects: 1.721300 ms  DeleteObjects: 0.081200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.438918 seconds.
+  path: Assets/Scenes/Scene3.unity
+  artifactKey: Guid(cff82f790b74c3049a0d4d8c71f38db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene3.unity using Guid(cff82f790b74c3049a0d4d8c71f38db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5dfa97a9969649f607e3dd5f9d38bb') in 0.013633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 148.874641 seconds.
+  path: Assets/Free Pixel Space Platform Pack/Astronaut/AstroWalk_0.controller
+  artifactKey: Guid(b9901ed754b2c1a469259156df03f85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Pixel Space Platform Pack/Astronaut/AstroWalk_0.controller using Guid(b9901ed754b2c1a469259156df03f85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a11c167faedbdf4403502a89683fdf4') in 0.006158 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004995 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.2 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4023.
+Total: 2.287700 ms (FindLiveObjects: 0.261500 ms CreateObjectMapping: 0.189300 ms MarkObjects: 1.746400 ms  DeleteObjects: 0.089800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 366.375339 seconds.
+  path: Assets/Scenes/Scene2.unity
+  artifactKey: Guid(79c5e39865f23b94f936f85c98348f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene2.unity using Guid(79c5e39865f23b94f936f85c98348f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9430c5e74d4fabcf1502077ca0299a2e') in 0.016571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.784047 seconds.
+  path: Assets/Scenes/Scene1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4264135734edbfd25db33e417ef5c715') in 0.002604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.685803 seconds.
+  path: Assets/Scenes/Scene3.unity
+  artifactKey: Guid(cff82f790b74c3049a0d4d8c71f38db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene3.unity using Guid(cff82f790b74c3049a0d4d8c71f38db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b48f88961fae35da9899ae8a8b1b69cc') in 0.002879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 113.427684 seconds.
+  path: Assets/Scenes/Menu.Controls.unity
+  artifactKey: Guid(d7b8d55aef4c4f947bd9bcd4d7d9f557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.Controls.unity using Guid(d7b8d55aef4c4f947bd9bcd4d7d9f557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098df4caa020a2529b136e95445e8ed3') in 0.003200 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003768 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.889 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.2 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4027.
+Total: 2.281100 ms (FindLiveObjects: 0.262200 ms CreateObjectMapping: 0.175900 ms MarkObjects: 1.758500 ms  DeleteObjects: 0.083500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004378 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.2 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4031.
+Total: 4.322900 ms (FindLiveObjects: 0.530400 ms CreateObjectMapping: 0.384800 ms MarkObjects: 3.268200 ms  DeleteObjects: 0.137800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003537 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9r.7h\Documents\Github Files\Vox_Games\VoxGames\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.3 MB.
+System memory in use after: 134.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4035.
+Total: 2.220200 ms (FindLiveObjects: 0.258200 ms CreateObjectMapping: 0.182400 ms MarkObjects: 1.697800 ms  DeleteObjects: 0.081000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

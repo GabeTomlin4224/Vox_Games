@@ -974,7 +974,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Controls
 
-    Movement:W,A,S,D
+    Movement:A,D
 
     Jump: Spacebar'
 --- !u!222 &1729195960
@@ -1019,8 +1019,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9.3, y: -113.6}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 12.8, y: -126.46503}
+  m_SizeDelta: {x: 187.2437, y: 55.7302}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2024091101
 MonoBehaviour:
@@ -1055,7 +1055,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Made By:VoxGames
+  m_Text: 'Made By: Austin Schaad, Gabe Tomlin, and Noah Balaity'
 --- !u!222 &2024091102
 CanvasRenderer:
   m_ObjectHideFlags: 0
