@@ -482,7 +482,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ending
+  m_Text: Back To Menu
 --- !u!222 &805476695
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -503,7 +503,6 @@ GameObject:
   - component: {fileID: 838332385}
   - component: {fileID: 838332384}
   - component: {fileID: 838332383}
-  - component: {fileID: 838332386}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -576,8 +575,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1022860928}
-        m_TargetAssemblyTypeName: FinalLevel, Assembly-CSharp
-        m_MethodName: FiveLevel
+        m_TargetAssemblyTypeName: BackToMain, Assembly-CSharp
+        m_MethodName: SixLevel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -625,18 +624,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 838332381}
   m_CullTransparentMesh: 1
---- !u!114 &838332386
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 838332381}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4ed8fa9c15eb4994588ae852872c3ebd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &968846629
 GameObject:
   m_ObjectHideFlags: 0
@@ -818,7 +805,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1022860923}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4ed8fa9c15eb4994588ae852872c3ebd, type: 3}
+  m_Script: {fileID: 11500000, guid: 8856c3027479f4841b8567af41003235, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1688009198
@@ -855,7 +842,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 34.2, y: -1.9}
+  m_AnchoredPosition: {x: 53.9, y: -1.9}
   m_SizeDelta: {x: 228.1591, y: 69.6696}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1688009200
@@ -891,8 +878,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This virus can lead to serious illness and death, but there are vaccines
-    available to reduce that risk.
+  m_Text: "Thank You For Playing This \nGame"
 --- !u!222 &1688009201
 CanvasRenderer:
   m_ObjectHideFlags: 0
